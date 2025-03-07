@@ -1,0 +1,27 @@
+90% of Fortune 500 Companies use Applicant Tracking Systems (ATS) to manage high volumes of job applications. ATS will electronically scan your resume, score your qualiﬁcations based on the description for that position, and rank your application. Recruiters rely on them to make their screening process more eﬃcient. 75% of candidates are “phased out of consideration” because they don’t pass a screening!
+
+These tips will help ensure your resume is positively reviewed by ATS.
+
+Content
+Tailor your resume for each position.
+Use keywords and exact phrases from the job description throughout your resume and online application. Keywords are graded both by how often they appear and the extent to which they get used in context. 
+Only abbreviate terms (e.g., B.S. degree) if it is also abbreviated in a job description.
+Use common names for your section headers (Education, Work Experience, Leadership, Skills).
+A summary statement utilizing keywords can be helpful.
+Outside of the job description, look for common language and keywords in current employee LinkedIn proﬁles, particularly those in similar roles.
+Do not put distinctions (e.g., PhD or CPA) into your header, as ATS systems will pull that into your ﬁrst name/last name box.
+
+Formatting
+Use simple formatting.
+Avoid headers, footers, tables, templates, borders, lines, symbols (bullet points are ﬁne), shading, fancy fonts, font colors other than black, tables, columns and boxes.
+Write out months and years so it’s readable by ATS systems.
+Use/submit MS Word documents (not PDFs) since all ATS systems can scan/read them.
+Don’t wordstuﬀ by adding in hidden or white text to trick the system.
+Functional resumes without dates might not score as well with newer ATS systems.
+
+Extra Tips
+Know that there are other things an organization might be scanning for outside of the job description text, like brand competitors or universities or schools attended.
+Complete all ﬁelds in an online applications, even those that are not required. Recruiters may use those ﬁelds as ﬁlters and, if left blank, your application might not make it through the system.
+Many organizations have employee referral systems, which will fast-track your application through the ATS. If you have a contact at the organization to which you are applying, ask them to submit a referral on your behalf.
+ATS’ are starting to sync with a candidate’s social media presence, so build yours and make sure its professional.
+Use a system like DAXTRA or RESUNATE to check your work for ATS standards.

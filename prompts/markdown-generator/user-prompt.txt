@@ -1,0 +1,21 @@
+I need to convert a YAML CV into a professional Markdown format that is optimized for ATS (Applicant Tracking Systems).
+
+The YAML CV content is:
+{{YAML_CONTENT}}
+
+The job description this CV is tailored for is:
+{{JOB_DESCRIPTION}}
+
+Please follow these ATS optimization guidelines:
+{{ATS_STRATEGY}}
+
+Please create a professional, clean, and ATS-optimized Markdown CV based on this YAML data. 
+The Markdown should:
+1. Be well-structured and easy to read
+2. Use appropriate headers, bullet points, and formatting
+3. Highlight the most relevant skills and experiences for the job description
+4. Follow ATS best practices to ensure it passes automated screening
+5. Be ready to convert to a Word document
+6. Cannot contain bullet lists due to formatting issues, especially inside an experience.
+
+Return only the Markdown content with no additional explanations.

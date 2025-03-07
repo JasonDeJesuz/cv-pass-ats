@@ -1,0 +1,32 @@
+{
+  "name": "cv-hacker",
+  "version": "1.0.0",
+  "description": "A tool to tailor CVs to job descriptions using OpenAI",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "tailor": "ts-node src/tailor-cv.ts",
+    "generate-markdown": "ts-node src/markdown-generator.ts",
+    "docx": "ts-node src/docx-converter.ts"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "openai",
+    "tailoring"
+  ],
+  "author": "Jason De Jesuz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "js-yaml": "^4.1.0",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.5",
+    "@types/node": "^20.4.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}

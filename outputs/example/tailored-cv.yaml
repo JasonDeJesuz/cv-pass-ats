@@ -1,0 +1,83 @@
+name: Jason
+contact:
+  email: jason@me.com
+  phone: ["+27 73 123 1234", "+65 1234 1234"]
+  locations: []
+  nationality: ["South African", "Portuguese"]
+  website: ""
+
+summary: >
+  "Experienced software engineer with a strong focus on AI-driven applications and strategic project development. Proven track record in leading teams to enhance system efficiency and productivity through innovative solutions. Skilled in agile methodologies, AI integration, and project management, with a keen ability to align technology with business needs."
+
+experience:
+  - role: "Lead Senior Software Engineer"
+    company: "OnLoop Pte Ltd"
+    duration: "June 2022 - Present"
+    location: "Singapore - Remote"
+    achievements:
+      - "Led initiatives to increase launch frequency by 300% and sprint delivery rate by 90%, significantly boosting project completion."
+      - "Implemented automated tests reducing bugs per FTE by 72.2%, enhancing software reliability."
+      - "Developed a back-office system improving data management across tenants, reducing issue resolution time by 99.48%."
+
+  - role: "Founder and Architect"
+    company: "Epictetus Research Pte Ltd"
+    duration: "August 2024 - Present"
+    location: "Singapore"
+    achievements:
+      - "Developed and launched a web application for user feedback, reducing monthly spend by 40%."
+
+  - role: "Founder and Architect"
+    company: "Lyemac Pty Ltd"
+    duration: "November 2020 - Present"
+    location: "South Africa"
+    achievements:
+      - "Launched AI-powered mobile applications, increasing client revenue by 5000% within 3 months."
+      - "Designed workflows increasing launch frequency by 700% for client teams."
+      - "Contributed to AI-powered app development, unlocking $500k in investor funds."
+
+  - role: "Lead Software Engineer"
+    company: "Mashlab Pty Ltd"
+    duration: "July 2019 - April 2022"
+    location: "South Africa"
+    achievements:
+      - "Led rebranding and development projects, contributing to significant revenue growth of $1,000,000."
+      - "Implemented a CMS system, reducing content update time by 85% and eliminating external dependencies."
+
+education:
+  - name: "Bachelors of Computer Engineering"
+    institution: "Belgium Campus"
+    country: "South Africa"
+    type: "Degree"
+    note: "Partial program"
+    years: ["2016", "2017"]
+  - name: "Matric"
+    instituion: "Hoerskool Jeugland"
+    years: ["2016"]
+
+certifications:
+  - "Coursera: Programming Foundations with HTML, Javascript, CSS with Honours"
+  - "Microsoft: Software Development Fundamentals"
+
+skills:
+  - "Software Engineering"
+  - "AI Integration"
+  - "Project Management"
+  - "Team Leadership"
+  - "QA Testing"
+  - "Strong Communication"
+
+languages:
+  - "English"
+  - "Afrikaans"
+
+interests:
+  - "AI"
+  - "Quantitative Finance"
+  - "Digital Minimalism"
+  - "Fitness and Health"
+
+references:
+  - name: "John Doe"
+    position: "CTO & Manager"
+    company: "Somewhere ex. Foodpanda, Traveloka"
+    contact: "john@somewhere.com"

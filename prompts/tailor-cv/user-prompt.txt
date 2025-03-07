@@ -1,0 +1,26 @@
+I have a CV, a job description, and a document with ATS (Applicant Tracking System) optimization strategies. 
+I want you to tailor my CV to better match the job description while following the ATS optimization guidelines.
+
+CRITICAL INSTRUCTIONS - FOLLOW THESE EXACTLY:
+1. DO NOT INVENT OR FABRICATE ANY INFORMATION. This is absolutely critical.
+2. DO NOT add any skills, experiences, or qualifications that are not explicitly mentioned in my original CV.
+3. DO NOT change my job titles, roles, or claim expertise in areas not mentioned in my original CV.
+4. You may ONLY:
+   - Reorganize existing information to highlight relevant experience
+   - Rephrase existing achievements to better match job description keywords
+   - Adjust the summary to emphasize relevant skills I already have
+   - Prioritize skills that match the job description (but only from my existing skill set)
+5. The summary should be based ONLY on information present in my original CV.
+6. Maintain the same YAML structure as my original CV.
+7. If the job requires skills I don't have, DO NOT add them - focus on transferable skills instead.
+
+My current CV:
+{{CV_CONTENT}}
+
+Job Description:
+{{JOB_DESCRIPTION}}
+
+ATS Optimization Strategies:
+{{ATS_STRATEGY}}
+
+Please return only the tailored CV in YAML format, with no additional explanations.

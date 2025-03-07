@@ -1,0 +1,29 @@
+About the job
+Job Description
+
+Interview Process: A consulting-style conversation with Hiring Managers where the candidate will gain a deep understanding of the role requirements and provide guidance on the best path forward.
+
+This is a short term, contract consulting role with potential for long-term collaboration based on project needs.
+
+We are seeking an experienced AI Engineer Consultant to guide a leading law firm in developing or selecting an AI-powered solution for managing and analyzing extensive legal documentation. This consultant will provide strategic guidance on whether to build a proprietary system, integrate existing AI tools, or implement a hybrid approach.
+
+Key Responsibilities:
+
+Assess the firm's needs for an AI-driven legal document management system that can efficiently store, organize, and retrieve thousands of legal documents.
+Provide technical and strategic guidance on AI-based document analysis, summarization, and knowledge extraction.
+Evaluate build vs. buy options, identifying the most effective and cost-efficient solution.
+Research, assess, and recommend existing AI vendors or platforms that align with legal industry requirements.
+If a custom solution is pursued, define technical specifications, architecture, and development roadmap.
+Ensure that any selected or developed solution complies with legal industry standards, data security, and confidentiality protocols.
+Collaborate with legal professionals and stakeholders to understand workflows and ensure seamless AI integration.
+
+Requirements:
+
+Proven experience in AI engineering, NLP, and machine learning, with a focus on document processing.
+Strong understanding of legal technology, legal research tools, and document management challenges.
+Hands-on experience with AI-based search, synthesis, and knowledge management systems.
+Experience working with or selecting AI vendors for enterprise applications.
+Ability to bridge the gap between technical teams and legal professionals, ensuring practical implementation.
+Prior consulting experience in AI strategy, implementation, or product evaluation is a plus.
+
+💰 Compensation: The rate for this role will vary based on experience and expertise.

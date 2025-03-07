@@ -1,6 +1,6 @@
 # CV Pass ATS
 
-A tool designed to optimize CVs/resumes to pass Applicant Tracking Systems (ATS) by tailoring your original CV data to specific job descriptions while following ATS optimization guidelines.
+A tool designed to optimize CVs/resumes to pass Applicant Tracking Systems (ATS) by tailoring your original CV data to specific job descriptions while following ATS optimization guidelines. Built for working on a mac - didn't look at windows yet.
 
 ## 🚀 Overview
 
@@ -33,9 +33,12 @@ npm install
 1. Place your original CV in YAML format in the meta/original-cv.yaml file
 2. Add your job description to inputs/job-description.txt
 3. Update your metadata in inputs/metadata.yaml with company, role, and platform information
-4. Run the process:
+4. Set your OPENAI_API_KEY inside .env file, see .env.example
+5. Install pandoc
+5. Run the process:
 
 ```bash
+brew install pandoc
 npm run start
 ```
 
@@ -63,7 +66,27 @@ Original CV (YAML) + Job Description + ATS Strategies
       Final DOCX File
 ```
 
+## 🌲 Running individual commands
+
+The code allows you to also run all these pieces individually, however, keep in mind, it will update the [example](./outputs/example/) directory.
+
+### Tailoring original CV to new CV in YAML
+```bash
+npm run tailor
+```
+
+### Generating markdown from the tailored CV YAML data
+```bash
+npm run generate-markdown
+```
+
+### Generating a DOCX file from the generate markdown file
+```bash
+npm run docx
+```
+
 ## 🚧 Potential Enhancements
+- Confirm Windows Support
 - PDF/DOCX to YAML converter for existing CVs
 - Web interface for easier interaction
 
